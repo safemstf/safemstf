@@ -5,21 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/safemstf/safemstf/blob/main/assets/gradient-divider.gif" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safemstf&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safemstf&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=safemstf&show_icons=true&theme=tokyonight&count_private=true&v=2" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safemstf&theme=tokyonight" style="margin: 10px;" />
 </p>
 
 ---
 
 ### 🌱 Skills & Technologies
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f8c8415e-4c3c-4954-b4fa-0aa3e9353ada" alt="logo" width="60%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge"/>
