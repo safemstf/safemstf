@@ -25,13 +25,14 @@
 ### ✦ Favorite Quotes
 
 > “Above all, don’t lie to yourself.”  
-> —The Brothers Karamazov*
+> — *Fyodor Dostoevsky, The Brothers Karamazov*
 
-<div dir="rtl" lang="ar" align="right">
-هُوَ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِۚ هُوَ الرَّحْمَٰنُ الرَّحِيمُ ﴿٥٩:٢٢﴾ <br>
-هُوَ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَۖ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ ﴿٥٩:٢٣﴾ <br>
-هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ ﴿٥٩:٢٤﴾
-</div>
 
 > “In the depth of winter I finally learned that within me there lay an invincible summer.”  
 > — *Albert Camus*
+
+
+<div dir="rtl" lang="ar" align="right" style="color:gray; font-style:italic;">
+وَهُوَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْـَٔاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
+</div>
+<p align="right" style="color:gray;"><i>— Qur’an 57:4</i></p>
