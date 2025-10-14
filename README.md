@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=3000&center=true&vCenter=true&width=450&gradient=7AA2F7,BB9AF7&lines=Developer+%7C+Designer+%7C+Creator;Brag+Responsibly" alt="Typing SVG" />
 </p>
 
----
-
 <p align="center">
   <span style="display:inline-block; margin-right:12px;">
     <img src="https://github-readme-stats.vercel.app/api?username=safemstf&show_icons=true&theme=tokyonight&count_private=true&v=20251014-1200" />
