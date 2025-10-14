@@ -54,4 +54,4 @@
 > <span dir="rtl" lang="ar" style="color:gray; font-style:italic;">
 > وَهُوَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْـَٔاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
 > </span>  
-> — <span style="color:gray; font-style:italic;">Qur’an 57:4</span>  
+> — <span style="color:gray; font-style:italic;">Qur’an 28:70</span>  
