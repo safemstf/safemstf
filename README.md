@@ -3,24 +3,6 @@
 </h1>
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-Next.js-blue?style=for-the-badge"/>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-NumPy_SciPy-blue?style=for-the-badge"/>
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-PostgreSQL-green?style=for-the-badge"/>
-  
-  <!-- Cloud / DevOps -->
-  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GCP-Cloud-orange?style=for-the-badge"/>
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=3000&center=true&vCenter=true&width=450&gradient=7AA2F7,BB9AF7&lines=Developer+%7C+Designer+%7C+Creator;Brag+Responsibly" alt="Typing SVG" />
 </p>
 
@@ -71,6 +53,24 @@
 <p align="center">
   <img src="https://github.com/safemstf/safemstf/blob/main/assets/gradient-divider.gif" width="80%" />
 </p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-Next.js-blue?style=for-the-badge"/>
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-NumPy_SciPy-blue?style=for-the-badge"/>
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-PostgreSQL-green?style=for-the-badge"/>
+  
+  <!-- Cloud / DevOps -->
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GCP-Cloud-orange?style=for-the-badge"/>
+</p>
+
 
 
 ---
