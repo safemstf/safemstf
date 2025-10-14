@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safemstf&show_icons=true&theme=tokyonight&count_private=true&v=20251014-1200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=safemstf&theme=tokyonight" style="margin: 20px;" />
 </p>
 
