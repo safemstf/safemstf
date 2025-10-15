@@ -8,7 +8,7 @@
 
 <p align="center">
   <span style="display:inline-block; margin-right:12px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=safemstf&show_icons=true&theme=tokyonight&count_private=true&v=20251014-1200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=safemstf&show_icons=true&theme=vision-friendly-dark&count_private=true&v=20251014-1200" />
   </span>
 </p>
 
@@ -22,8 +22,8 @@
 
   ---
 <p align="center">
-  <span style="display:inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=safemstf&theme=tokyonight" />
+  <span>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=safemstf&theme=dark" />
   </span>
 </p>
 
