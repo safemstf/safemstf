@@ -1,9 +1,9 @@
 <h1 align="center" dir="rtl">
-  <span style="color:#7AA2F7; text-shadow:0 0 8px #BB9AF7;">ﺳـــيـــف</span>
+  <span style="color:#7AA2F7; text-shadow:0 0 8px #d39529;">ﺳـــيـــف</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=3000&center=true&vCenter=true&width=450&gradient=7AA2F7,BB9AF7&lines=Developer+%7C+Designer+%7C+Creator;Brag+Responsibly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=3000&center=true&vCenter=true&width=450&color=d39529&lines=Developer+%7C+Designer+%7C+Creator;Brag+Responsibly" alt="Typing SVG" />
 </p>
 
 <p align="center">
