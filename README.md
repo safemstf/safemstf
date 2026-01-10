@@ -2,7 +2,7 @@
   <span style="color:#7AA2F7; text-shadow:0 0 8px #d39529;">ﺳـــيـــف</span>
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=3000&center=true&vCenter=true&width=450&color=d39529&lines=Developer+%7C+Designer+%7C+Creator;Brag+Responsibly" alt="Typing SVG" />
 </p>
 
@@ -25,7 +25,7 @@
   <span>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=safemstf&theme=dark" />
   </span>
-</p>
+</p> -->
 
 ---
 
@@ -91,6 +91,5 @@
 <p align="center">
   <blockquote dir="rtl" style="border-left: 4px solid gray; padding-right: 1em; margin: 0.5em 0; color: gray; font-style: italic;">
     وَهُوَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْـَٔاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ  
-    <br>— Qur’an 28:70
   </blockquote>
 </p>
