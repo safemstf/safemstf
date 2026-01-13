@@ -71,16 +71,6 @@
 
 
 
----
-
-### ✦ Favorite Quotes
-<p align="center">
-  <blockquote style="border-left: 4px solid #7AA2F7; padding-left: 1em; margin: 0.5em 0;">
-    “Above all, don’t lie to yourself.”  
-    <br>— <i>Fyodor Dostoevsky, The Brothers Karamazov</i>
-  </blockquote>
-</p>
-
 <p align="center">
   <blockquote style="border-left: 4px solid #BB9AF7; padding-left: 1em; margin: 0.5em 0;">
     “In the depth of winter I finally learned that within me there lay an invincible summer.”  
