@@ -88,8 +88,3 @@
   </blockquote>
 </p>
 
-<p align="center">
-  <blockquote dir="rtl" style="border-left: 4px solid gray; padding-right: 1em; margin: 0.5em 0; color: gray; font-style: italic;">
-    وَهُوَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْـَٔاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ  
-  </blockquote>
-</p>
