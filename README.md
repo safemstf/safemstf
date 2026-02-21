@@ -69,12 +69,3 @@
   <img src="https://img.shields.io/badge/GCP-Cloud-orange?style=for-the-badge"/>
 </p>
 
-
-
-<p align="center">
-  <blockquote style="border-left: 4px solid #BB9AF7; padding-left: 1em; margin: 0.5em 0;">
-    “In the depth of winter I finally learned that within me there lay an invincible summer.”  
-    <br>— <i>Albert Camus</i>
-  </blockquote>
-</p>
-
